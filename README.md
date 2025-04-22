@@ -1,5 +1,4 @@
 # Bank_Management_System
-# Bank Management System
 
 A simple Java-based console application to simulate a basic bank management system using **OOP concepts** such as Encapsulation, Inheritance, and Polymorphism.
 
